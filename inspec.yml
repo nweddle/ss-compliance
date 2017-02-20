@@ -1,0 +1,12 @@
+name: base-win
+title: Basic Windows Screen Saver
+summary: Verify that Windows Screen Saver is configured securely
+version: 0.1.0
+
+maintainer: Nathan Weddle
+copyright: Chef Software, Inc.
+copyright_email: nweddle@chef.io
+license: Apache-2.0
+
+supports:
+  - os-family: windows
