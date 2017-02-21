@@ -1,4 +1,4 @@
-name: base-win
+name: ss-compliance
 title: Basic Windows Screen Saver
 summary: Verify that Windows Screen Saver is configured securely
 version: 0.1.0
